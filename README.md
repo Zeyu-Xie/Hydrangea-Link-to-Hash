@@ -1,5 +1,7 @@
 # Hydrangea-Link-to-Hash
 
+A docker image for calculating file hash from links.
+
 ## Run
 
 ```bash
